@@ -30,6 +30,7 @@ This research can be considered as a descendant and an improvement of ["Squeeze-
 - Python 3.x
 - Keras
 
+
 ## Prepare Data set
 This repository use [*Cifar10*](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 When you run the training script, the dataset will be automatically downloaded.
